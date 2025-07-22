@@ -139,7 +139,6 @@ function sum(...args) {
 
 ---
 
-Let me know if you’d like a visual diagram or emoji-based breakdown for your GitHub doc too!
 
 
 ---
